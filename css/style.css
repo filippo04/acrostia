@@ -95,14 +95,14 @@ span {
   width: 100%;
   height: 1000px;
   text-align: center;
-  background: url(/img/slider.png) no-repeat;
+  background: url(../img/slider.png) no-repeat;
   background-size: cover;
   overflow: hidden;
   top: -105px;
   z-index: 1; }
 
 .s-item {
-  background: url(/img/slider-text-bg.png) no-repeat;
+  background: url(../img/slider-text-bg.png) no-repeat;
   margin: 450px 290px 0 290px; }
   .s-item li {
     display: inline-block;
@@ -126,7 +126,7 @@ span {
       padding: 0; }
 
 .arrow-left {
-  background: url(/img/arrow-left.png) no-repeat;
+  background: url(../img/arrow-left.png) no-repeat;
   width: 35px;
   height: 60px;
   position: absolute;
@@ -134,7 +134,7 @@ span {
   left: 50px; }
 
 .arrow-right {
-  background: url(/img/arrow-right.png) no-repeat;
+  background: url(../img/arrow-right.png) no-repeat;
   width: 35px;
   height: 60px;
   position: absolute;
@@ -160,7 +160,7 @@ span {
 
 #sr {
   margin: 0;
-  background: url(/img/services-bg.png) no-repeat;
+  background: url(../img/services-bg.png) no-repeat;
   background-size: cover;
   padding-bottom: 125px;
   margin-top: -105px;
@@ -260,7 +260,7 @@ span {
 #ab {
   width: 100%;
   height: auto;
-  background: url(/img/about-bg.png) no-repeat;
+  background: url(../img/about-bg.png) no-repeat;
   background-size: cover;
   padding-bottom: 115px; }
 
@@ -314,7 +314,7 @@ span {
 
 .m-team {
   text-transform: uppercase;
-  background: url(/img/m-team-bg.png) no-repeat;
+  background: url(../img/m-team-bg.png) no-repeat;
   font-family: LatoB, sans-serif;
   font-size: 25px;
   padding: 15px 40px 30px 40px;
@@ -338,7 +338,7 @@ span {
     border-radius: 5px; }
     #ab-team li span {
       margin-top: 40px;
-      background: url(/img/User.png) no-repeat;
+      background: url(../img/User.png) no-repeat;
       width: 168px;
       height: 177px;
       display: inline-block; }
@@ -366,7 +366,7 @@ span {
   height: auto; }
   #ab-team li:hover .ab-team-hover span {
     margin-top: 40px;
-    background: url(/img/User1.png) no-repeat;
+    background: url(../img/User1.png) no-repeat;
     width: 168px;
     height: 177px;
     display: inline-block; }
@@ -380,15 +380,15 @@ span {
     #ab-team li:hover .ab-team-hover .social a {
       width: 31px;
       height: 31px;
-      background: url(/img/facebook1.png) no-repeat; }
+      background: url(../img/facebook1.png) no-repeat; }
     #ab-team li:hover .ab-team-hover .social a:nth-child(2) {
-      background: url(/img/twit1.png) no-repeat;
+      background: url(../img/twit1.png) no-repeat;
       margin: 0 8px 0 15px; }
     #ab-team li:hover .ab-team-hover .social a:nth-child(3) {
-      background: url(/img/g+1.png) no-repeat;
+      background: url(../img/g+1.png) no-repeat;
       margin: 0 15px 0 8px; }
     #ab-team li:hover .ab-team-hover .social a:nth-child(4) {
-      background: url(/img/lin1.png) no-repeat; }
+      background: url(../img/lin1.png) no-repeat; }
 
 .social {
   height: 35px;
@@ -396,12 +396,12 @@ span {
   .social a {
     width: 31px;
     height: 31px;
-    background: url(/img/facebook.png) no-repeat; }
+    background: url(../img/facebook.png) no-repeat; }
   .social a:nth-child(2) {
-    background: url(/img/twit.png) no-repeat;
+    background: url(../img/twit.png) no-repeat;
     margin: 0 8px 0 15px; }
   .social a:nth-child(3) {
-    background: url(/img/g+.png) no-repeat;
+    background: url(../img/g+.png) no-repeat;
     margin: 0 15px 0 8px;
     /* Кнoпкa зaкрыть для тех ктo в тaнке) */
     /* Пoдлoжкa */ }
@@ -490,13 +490,13 @@ span {
       width: 100%;
       height: 1000px;
       text-align: center;
-      background: url(/img/slider.png) no-repeat;
+      background: url(../img/slider.png) no-repeat;
       background-size: cover;
       overflow: hidden;
       top: -105px;
       z-index: 1; }
     .social a:nth-child(3) .s-item {
-      background: url(/img/slider-text-bg.png) no-repeat;
+      background: url(../img/slider-text-bg.png) no-repeat;
       margin: 450px 290px 0 290px; }
       .social a:nth-child(3) .s-item li {
         display: inline-block;
@@ -519,14 +519,14 @@ span {
           margin: 0;
           padding: 0; }
     .social a:nth-child(3) .arrow-left {
-      background: url(/img/arrow-left.png) no-repeat;
+      background: url(../img/arrow-left.png) no-repeat;
       width: 35px;
       height: 60px;
       position: absolute;
       top: 50%;
       left: 50px; }
     .social a:nth-child(3) .arrow-right {
-      background: url(/img/arrow-right.png) no-repeat;
+      background: url(../img/arrow-right.png) no-repeat;
       width: 35px;
       height: 60px;
       position: absolute;
@@ -549,7 +549,7 @@ span {
       margin: 0 40px; }
     .social a:nth-child(3) #sr {
       margin: 0;
-      background: url(/img/services-bg.png) no-repeat;
+      background: url(../img/services-bg.png) no-repeat;
       background-size: cover;
       padding-bottom: 125px;
       margin-top: -115px;
@@ -643,7 +643,7 @@ span {
     .social a:nth-child(3) #ab {
       width: 100%;
       height: auto;
-      background: url(/img/about-bg.png) no-repeat;
+      background: url(../img/about-bg.png) no-repeat;
       background-size: cover;
       padding-bottom: 115px; }
     .social a:nth-child(3) .ab-menu {
@@ -694,7 +694,7 @@ span {
         line-height: 24px; }
     .social a:nth-child(3) .m-team {
       text-transform: uppercase;
-      background: url(/img/m-team-bg.png) no-repeat;
+      background: url(../img/m-team-bg.png) no-repeat;
       font-family: LatoB, sans-serif;
       font-size: 25px;
       padding: 15px 40px 30px 40px;
@@ -755,34 +755,34 @@ span {
         .social a:nth-child(3) #ab-team li:hover .ab-team-hover .social a {
           width: 31px;
           height: 31px;
-          background: url(/img/facebook1.png) no-repeat; }
+          background: url(../img/facebook1.png) no-repeat; }
         .social a:nth-child(3) #ab-team li:hover .ab-team-hover .social a:nth-child(2) {
-          background: url(/img/twit1.png) no-repeat;
+          background: url(../img/twit1.png) no-repeat;
           margin: 0 8px 0 15px; }
         .social a:nth-child(3) #ab-team li:hover .ab-team-hover .social a:nth-child(3) {
-          background: url(/img/g+1.png) no-repeat;
+          background: url(../img/g+1.png) no-repeat;
           margin: 0 15px 0 8px; }
         .social a:nth-child(3) #ab-team li:hover .ab-team-hover .social a:nth-child(4) {
-          background: url(/img/lin1.png) no-repeat; }
+          background: url(../img/lin1.png) no-repeat; }
     .social a:nth-child(3) .social {
       height: 35px;
       margin-bottom: 30px; }
       .social a:nth-child(3) .social a {
         width: 31px;
         height: 31px;
-        background: url(/img/facebook.png) no-repeat; }
+        background: url(../img/facebook.png) no-repeat; }
       .social a:nth-child(3) .social a:nth-child(2) {
-        background: url(/img/twit.png) no-repeat;
+        background: url(../img/twit.png) no-repeat;
         margin: 0 8px 0 15px; }
       .social a:nth-child(3) .social a:nth-child(3) {
-        background: url(/img/g+.png) no-repeat;
+        background: url(../img/g+.png) no-repeat;
         margin: 0 15px 0 8px; }
       .social a:nth-child(3) .social a:nth-child(4) {
-        background: url(/img/lin.png) no-repeat; }
+        background: url(../img/lin.png) no-repeat; }
     .social a:nth-child(3) #wk {
       width: 100%;
       height: auto;
-      background: url(/img/work-bg.png) no-repeat;
+      background: url(../img/work-bg.png) no-repeat;
       background-size: cover; }
     .social a:nth-child(3) .wk-menu {
       height: auto;
@@ -950,12 +950,12 @@ span {
           background-size: cover;
           height: 200px;
           display: block;
-          background: url(/img/list1.png) 100% no-repeat;
+          background: url(../img/list1.png) 100% no-repeat;
           border-radius: 5px 5px 0 0;
           z-index: 0;
           position: relative; }
         .social a:nth-child(3) .wk-list li p {
-          background: url(/img/arrow-list.png) no-repeat;
+          background: url(../img/arrow-list.png) no-repeat;
           width: 37px;
           height: 19px;
           z-index: 2;
@@ -970,19 +970,19 @@ span {
           color: #727272;
           text-transform: uppercase; }
     .social a:nth-child(3) .wk-list li:nth-child(2) span {
-      background: url(/img/list1.png) 100% no-repeat; }
+      background: url(../img/list1.png) 100% no-repeat; }
     .social a:nth-child(3) .wk-list li:nth-child(3) span {
-      background: url(/img/list3.png) 100% no-repeat; }
+      background: url(../img/list3.png) 100% no-repeat; }
     .social a:nth-child(3) .wk-list li:nth-child(4) span {
-      background: url(/img/list4.png) 100% no-repeat; }
+      background: url(../img/list4.png) 100% no-repeat; }
     .social a:nth-child(3) .wk-list li:nth-child(5) span {
       background: url(/img/list5.png) 100% no-repeat; }
     .social a:nth-child(3) .wk-list li:nth-child(6) span {
-      background: url(/img/list6.png) 100% no-repeat; }
+      background: url(../img/list6.png) 100% no-repeat; }
     .social a:nth-child(3) .wk-list li:nth-child(7) span {
-      background: url(/img/list7.png) 100% no-repeat; }
+      background: url(../img/list7.png) 100% no-repeat; }
     .social a:nth-child(3) .wk-list li:nth-child(8) span {
-      background: url(/img/list8.png) 100% no-repeat; }
+      background: url(../img/list8.png) 100% no-repeat; }
     .social a:nth-child(3) .lihoverlist {
       display: none;
       position: relative; }
@@ -997,7 +997,7 @@ span {
         background-size: cover;
         height: 200px;
         display: block;
-        background: url(/img/list-hover.png) 45% no-repeat;
+        background: url(../img/list-hover.png) 45% no-repeat;
         border-radius: 5px 5px 0 0;
         z-index: 2;
         position: relative; }
@@ -1024,7 +1024,7 @@ span {
     .social a:nth-child(3) #cn {
       width: 100%;
       height: auto;
-      background: url(/img/cn-bg.png) no-repeat;
+      background: url(../img/cn-bg.png) no-repeat;
       background-size: cover;
       padding-bottom: 80px; }
     .social a:nth-child(3) .cn-menu {
@@ -1204,16 +1204,16 @@ span {
       padding: 45px 0;
       text-align: center; }
     .social a:nth-child(3) .f-s a {
-      background: url(/img/facebook-f.png) no-repeat;
+      background: url(../img/facebook-f.png) no-repeat;
       width: 60px;
       height: 60px;
       margin: 0 20px; }
     .social a:nth-child(3) .f-s a:nth-child(2) {
-      background: url(/img/twit-f.png) no-repeat; }
+      background: url(../img/twit-f.png) no-repeat; }
     .social a:nth-child(3) .f-s a:nth-child(3) {
-      background: url(/img/g+f.png) no-repeat; }
+      background: url(../img/g+f.png) no-repeat; }
     .social a:nth-child(3) .f-s a:nth-child(4) {
-      background: url(/img/lin-f.png) no-repeat; }
+      background: url(../img/lin-f.png) no-repeat; }
     @media only screen and (min-width: 320px) and (max-width: 767px) {
       .social a:nth-child(3) .header-area,
       .social a:nth-child(3) .sr-area,
@@ -1269,14 +1269,14 @@ span {
             text-align: center;
             opacity: 1; }
       .social a:nth-child(3) .arrow-left {
-        background: url(/img/arrow-left.png) no-repeat;
+        background: url(../img/arrow-left.png) no-repeat;
         width: 35px;
         height: 60px;
         position: absolute;
         top: 50%;
         left: 5px; }
       .social a:nth-child(3) .arrow-right {
-        background: url(/img/arrow-right.png) no-repeat;
+        background: url(../img/arrow-right.png) no-repeat;
         width: 35px;
         height: 60px;
         position: absolute;
@@ -1414,15 +1414,15 @@ span {
         .social a:nth-child(3) #ab-team li:hover .ab-team-hover .social a {
           width: 31px;
           height: 31px;
-          background: url(/img/facebook1.png) no-repeat; }
+          background: url(../img/facebook1.png) no-repeat; }
         .social a:nth-child(3) #ab-team li:hover .ab-team-hover .social a:nth-child(2) {
-          background: url(/img/twit1.png) no-repeat;
+          background: url(../img/twit1.png) no-repeat;
           margin: 0; }
         .social a:nth-child(3) #ab-team li:hover .ab-team-hover .social a:nth-child(3) {
-          background: url(/img/g+1.png) no-repeat;
+          background: url(../img/g+1.png) no-repeat;
           margin: 0; }
         .social a:nth-child(3) #ab-team li:hover .ab-team-hover .social a:nth-child(4) {
-          background: url(/img/lin1.png) no-repeat; }
+          background: url(../img/lin1.png) no-repeat; }
       .social a:nth-child(3) .social a:nth-child(2),
       .social a:nth-child(3) .social a:nth-child(3) {
         margin: 0; }
@@ -1558,16 +1558,16 @@ span {
           display: block;
           box-shadow: 0 5px 0 #c8535a; }
       .social a:nth-child(3) .f-s a {
-        background: url(/img/facebook-f.png) no-repeat;
+        background: url(../img/facebook-f.png) no-repeat;
         width: 60px;
         height: 60px;
         margin: 0 5px; }
       .social a:nth-child(3) .f-s a:nth-child(2) {
-        background: url(/img/twit-f.png) no-repeat; }
+        background: url(../img/twit-f.png) no-repeat; }
       .social a:nth-child(3) .f-s a:nth-child(3) {
-        background: url(/img/g+f.png) no-repeat; }
+        background: url(../img/g+f.png) no-repeat; }
       .social a:nth-child(3) .f-s a:nth-child(4) {
-        background: url(/img/lin-f.png) no-repeat; } }
+        background: url(../img/lin-f.png) no-repeat; } }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
       .social a:nth-child(3) .header-area,
       .social a:nth-child(3) .sr-area,
@@ -1584,7 +1584,7 @@ span {
         padding: 0 10px; }
       .social a:nth-child(3) .s-item {
         width: 70%;
-        background: url(/img/slider-text-bg.png) repeat-y;
+        background: url(../img/slider-text-bg.png) repeat-y;
         margin: 50% auto; }
       .social a:nth-child(3) #sr {
         margin-top: -115px; }
@@ -1652,7 +1652,7 @@ span {
       .social a:nth-child(3) .cn-menu {
         padding: 0 10px; }
       .social a:nth-child(3) .s-item {
-        background: url(/img/slider-text-bg.png) repeat-y;
+        background: url(../img/slider-text-bg.png) repeat-y;
         margin: 40% 15%; }
         .social a:nth-child(3) .s-item li {
           text-align: center; }
@@ -1739,12 +1739,12 @@ span {
         .social a:nth-child(3) .right-cn textarea {
           height: 135px; } }
   .social a:nth-child(4) {
-    background: url(/img/lin.png) no-repeat; }
+    background: url(../img/lin.png) no-repeat; }
 
 #wk {
   width: 100%;
   height: auto;
-  background: url(/img/work-bg.png) no-repeat;
+  background: url(../img/work-bg.png) no-repeat;
   background-size: cover; }
 
 .wk-menu {
@@ -1926,12 +1926,12 @@ span {
       background-size: cover;
       height: 200px;
       display: block;
-      background: url(/img/list1.png) 100% no-repeat;
+      background: url(../img/list1.png) 100% no-repeat;
       border-radius: 5px 5px 0 0;
       z-index: 0;
       position: relative; }
     .wk-list li p {
-      background: url(/img/arrow-list.png) no-repeat;
+      background: url(../img/arrow-list.png) no-repeat;
       width: 37px;
       height: 19px;
       z-index: 2;
@@ -1947,25 +1947,25 @@ span {
       text-transform: uppercase; }
 
 .wk-list li:nth-child(2) span {
-  background: url(/img/list1.png) 100% no-repeat; }
+  background: url(../img/list1.png) 100% no-repeat; }
 
 .wk-list li:nth-child(3) span {
-  background: url(/img/list3.png) 100% no-repeat; }
+  background: url(../img/list3.png) 100% no-repeat; }
 
 .wk-list li:nth-child(4) span {
-  background: url(/img/list4.png) 100% no-repeat; }
+  background: url(../img/list4.png) 100% no-repeat; }
 
 .wk-list li:nth-child(5) span {
-  background: url(/img/list5.png) 100% no-repeat; }
+  background: url(../img/list5.png) 100% no-repeat; }
 
 .wk-list li:nth-child(6) span {
-  background: url(/img/list6.png) 100% no-repeat; }
+  background: url(../img/list6.png) 100% no-repeat; }
 
 .wk-list li:nth-child(7) span {
-  background: url(/img/list7.png) 100% no-repeat; }
+  background: url(../img/list7.png) 100% no-repeat; }
 
 .wk-list li:nth-child(8) span {
-  background: url(/img/list8.png) 100% no-repeat; }
+  background: url(../img/list8.png) 100% no-repeat; }
 
 .lihoverlist {
   display: none;
@@ -1982,7 +1982,7 @@ span {
     background-size: cover;
     height: 200px;
     display: block;
-    background: url(/img/list-hover.png) 45% no-repeat;
+    background: url(../img/list-hover.png) 45% no-repeat;
     border-radius: 5px 5px 0 0;
     z-index: 2;
     position: relative; }
@@ -2011,7 +2011,7 @@ span {
 #cn {
   width: 100%;
   height: auto;
-  background: url(/img/cn-bg.png) no-repeat;
+  background: url(../img/cn-bg.png) no-repeat;
   background-size: cover;
   padding-bottom: 80px; }
 
@@ -2200,16 +2200,16 @@ span {
   text-align: center; }
 
 .f-s a {
-  background: url(/img/facebook-f.png) no-repeat;
+  background: url(../img/facebook-f.png) no-repeat;
   width: 60px;
   height: 60px;
   margin: 0 20px; }
 
 .f-s a:nth-child(2) {
-  background: url(/img/twit-f.png) no-repeat; }
+  background: url(../img/twit-f.png) no-repeat; }
 
 .f-s a:nth-child(3) {
-  background: url(/img/g+f.png) no-repeat; }
+  background: url(../img/g+f.png) no-repeat; }
 
 .f-s a:nth-child(4) {
-  background: url(/img/lin-f.png) no-repeat; }
+  background: url(../img/lin-f.png) no-repeat; }
