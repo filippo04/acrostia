@@ -153,7 +153,7 @@ span {
 }
 
 .arrow-left {
-    background: url(/img/arrow-left.png) no-repeat;
+    background: url(../img/arrow-left.png) no-repeat;
     width: 35px;
     height: 60px;
     position: absolute;
@@ -162,7 +162,7 @@ span {
 }
 
 .arrow-right {
-    background: url(/img/arrow-right.png)no-repeat;
+    background: url(../img/arrow-right.png)no-repeat;
     width: 35px;
     height: 60px;
     position: absolute;
@@ -192,7 +192,7 @@ span {
 
 #sr {
     margin: 0;
-    background: url(/img/services-bg.png) no-repeat;
+    background: url(../img/services-bg.png) no-repeat;
     background-size: cover;
     padding-bottom: 125px;
     margin-top: -105px;
@@ -299,7 +299,7 @@ span {
 #ab {
     width: 100%;
     height: auto;
-    background: url(/img/about-bg.png) no-repeat;
+    background: url(../img/about-bg.png) no-repeat;
     background-size: cover;
     padding-bottom: 115px;
 }
@@ -355,7 +355,7 @@ span {
 
 .m-team {
     text-transform: uppercase;
-    background: url(/img/m-team-bg.png) no-repeat;
+    background: url(../img/m-team-bg.png) no-repeat;
     font-family: LatoB, sans-serif;
     font-size: $margin + 11;
     padding: 15px 40px 30px 40px;
@@ -376,7 +376,7 @@ span {
         border-radius: 5px;
         span {
             margin-top: 40px;
-            background: url(/img/User.png) no-repeat;
+            background: url(../img/User.png) no-repeat;
             width: 168px;
             height: 177px;
             display: inline-block;
@@ -408,7 +408,7 @@ span {
     height: auto;
     span {
         margin-top: 40px;
-        background: url(/img/User1.png) no-repeat;
+        background: url(../img/User1.png) no-repeat;
         width: 168px;
         height: 177px;
         display: inline-block;
@@ -425,18 +425,18 @@ span {
         a {
             width: 31px;
             height: 31px;
-            background: url(/img/facebook1.png) no-repeat;
+            background: url(../img/facebook1.png) no-repeat;
         }
         a:nth-child(2) {
-            background: url(/img/twit1.png) no-repeat;
+            background: url(../img/twit1.png) no-repeat;
             margin: 0 8px 0 15px;
         }
         a:nth-child(3) {
-            background: url(/img/g+1.png) no-repeat;
+            background: url(../img/g+1.png) no-repeat;
             margin: 0 15px 0 8px;
         }
         a:nth-child(4) {
-            background: url(/img/lin1.png) no-repeat;
+            background: url(../img/lin1.png) no-repeat;
         }
     }
 }
@@ -447,14 +447,14 @@ span {
     a {
         width: 31px;
         height: 31px;
-        background: url(/img/facebook.png) no-repeat;
+        background: url(../img/facebook.png) no-repeat;
     }
     a:nth-child(2) {
-        background: url(/img/twit.png) no-repeat;
+        background: url(../img/twit.png) no-repeat;
         margin: 0 8px 0 15px;
     }
     a:nth-child(3) {
-        background: url(/img/g+.png) no-repeat;
+        background: url(../img/g+.png) no-repeat;
         margin: 0 15px 0 8px;* {
     box-sizing: border-box;
 }
@@ -574,7 +574,7 @@ span {
     width: 100%;
     height: 1000px;
     text-align: center;
-    background: url(/img/slider.png) no-repeat;
+    background: url(../img/slider.png) no-repeat;
     background-size: cover;
     overflow: hidden;
     top: -105px;
@@ -582,7 +582,7 @@ span {
 }
 
 .s-item {
-    background: url(/img/slider-text-bg.png) no-repeat;
+    background: url(../img/slider-text-bg.png) no-repeat;
     margin: 450px 290px 0 290px;
     li {
         display: inline-block;
@@ -610,7 +610,7 @@ span {
 }
 
 .arrow-left {
-    background: url(/img/arrow-left.png) no-repeat;
+    background: url(../img/arrow-left.png) no-repeat;
     width: 35px;
     height: 60px;
     position: absolute;
@@ -619,7 +619,7 @@ span {
 }
 
 .arrow-right {
-    background: url(/img/arrow-right.png)no-repeat;
+    background: url(../img/arrow-right.png)no-repeat;
     width: 35px;
     height: 60px;
     position: absolute;
@@ -649,7 +649,7 @@ span {
 
 #sr {
     margin: 0;
-    background: url(/img/services-bg.png) no-repeat;
+    background: url(../img/services-bg.png) no-repeat;
     background-size: cover;
     padding-bottom: 125px;
     margin-top: -115px;
@@ -756,7 +756,7 @@ span {
 #ab {
     width: 100%;
     height: auto;
-    background: url(/img/about-bg.png) no-repeat;
+    background: url(../img/about-bg.png) no-repeat;
     background-size: cover;
     padding-bottom: 115px;
 }
@@ -812,7 +812,7 @@ span {
 
 .m-team {
     text-transform: uppercase;
-    background: url(/img/m-team-bg.png) no-repeat;
+    background: url(../img/m-team-bg.png) no-repeat;
     font-family: LatoB, sans-serif;
     font-size: $margin + 11;
     padding: 15px 40px 30px 40px;
@@ -880,18 +880,18 @@ span {
         a {
             width: 31px;
             height: 31px;
-            background: url(/img/facebook1.png) no-repeat;
+            background: url(../img/facebook1.png) no-repeat;
         }
         a:nth-child(2) {
-            background: url(/img/twit1.png) no-repeat;
+            background: url(../img/twit1.png) no-repeat;
             margin: 0 8px 0 15px;
         }
         a:nth-child(3) {
-            background: url(/img/g+1.png) no-repeat;
+            background: url(../img/g+1.png) no-repeat;
             margin: 0 15px 0 8px;
         }
         a:nth-child(4) {
-            background: url(/img/lin1.png) no-repeat;
+            background: url(../img/lin1.png) no-repeat;
         }
     }
 }
@@ -902,25 +902,25 @@ span {
     a {
         width: 31px;
         height: 31px;
-        background: url(/img/facebook.png) no-repeat;
+        background: url(../img/facebook.png) no-repeat;
     }
     a:nth-child(2) {
-        background: url(/img/twit.png) no-repeat;
+        background: url(../img/twit.png) no-repeat;
         margin: 0 8px 0 15px;
     }
     a:nth-child(3) {
-        background: url(/img/g+.png) no-repeat;
+        background: url(../img/g+.png) no-repeat;
         margin: 0 15px 0 8px;
     }
     a:nth-child(4) {
-        background: url(/img/lin.png) no-repeat;
+        background: url(../img/lin.png) no-repeat;
     }
 }
 
 #wk {
     width: 100%;
     height: auto;
-    background: url(/img/work-bg.png) no-repeat;
+    background: url(../img/work-bg.png) no-repeat;
     background-size: cover;
 }
 
@@ -1106,13 +1106,13 @@ span {
             background-size: cover;
             height: 200px;
             display: block;
-            background: url(/img/list1.png) 100% no-repeat;
+            background: url(../img/list1.png) 100% no-repeat;
             border-radius: 5px 5px 0 0;
             z-index: 0;
             position: relative;
         }
         p {
-            background: url(/img/arrow-list.png) no-repeat;
+            background: url(../img/arrow-list.png) no-repeat;
             width: 37px;
             height: 19px;
             z-index: 2;
@@ -1131,43 +1131,43 @@ span {
 
 .wk-list li:nth-child(2) {
     span {
-        background: url(/img/list1.png) 100% no-repeat;
+        background: url(../img/list1.png) 100% no-repeat;
     }
 }
 
 .wk-list li:nth-child(3) {
     span {
-        background: url(/img/list3.png) 100% no-repeat;
+        background: url(../img/list3.png) 100% no-repeat;
     }
 }
 
 .wk-list li:nth-child(4) {
     span {
-        background: url(/img/list4.png) 100% no-repeat;
+        background: url(../img/list4.png) 100% no-repeat;
     }
 }
 
 .wk-list li:nth-child(5) {
     span {
-        background: url(/img/list5.png) 100% no-repeat;
+        background: url(../img/list5.png) 100% no-repeat;
     }
 }
 
 .wk-list li:nth-child(6) {
     span {
-        background: url(/img/list6.png) 100% no-repeat;
+        background: url(../img/list6.png) 100% no-repeat;
     }
 }
 
 .wk-list li:nth-child(7) {
     span {
-        background: url(/img/list7.png) 100% no-repeat;
+        background: url(../img/list7.png) 100% no-repeat;
     }
 }
 
 .wk-list li:nth-child(8) {
     span {
-        background: url(/img/list8.png) 100% no-repeat;
+        background: url(../img/list8.png) 100% no-repeat;
     }
 }
 
@@ -1187,7 +1187,7 @@ span {
         background-size: cover;
         height: 200px;
         display: block;
-        background: url(/img/list-hover.png) 45% no-repeat;
+        background: url(../img/list-hover.png) 45% no-repeat;
         border-radius: 5px 5px 0 0;
         z-index: 2;
         position: relative;
@@ -1224,7 +1224,7 @@ span {
 #cn {
     width: 100%;
     height: auto;
-    background: url(/img/cn-bg.png) no-repeat;
+    background: url(../img/cn-bg.png) no-repeat;
     background-size: cover;
     padding-bottom: 80px;
 }
@@ -1415,19 +1415,19 @@ span {
 
 .f-s {
     a {
-        background: url(/img/facebook-f.png) no-repeat;
+        background: url(../img/facebook-f.png) no-repeat;
         width: 60px;
         height: 60px;
         margin: 0 20px;
     }
     a:nth-child(2) {
-        background: url(/img/twit-f.png) no-repeat;
+        background: url(../img/twit-f.png) no-repeat;
     }
     a:nth-child(3) {
-        background: url(/img/g+f.png) no-repeat;
+        background: url(../img/g+f.png) no-repeat;
     }
     a:nth-child(4) {
-        background: url(/img/lin-f.png) no-repeat;
+        background: url(../img/lin-f.png) no-repeat;
     }
 }
 
@@ -1498,7 +1498,7 @@ span {
         }
     }
     .arrow-left {
-        background: url(/img/arrow-left.png) no-repeat;
+        background: url(../img/arrow-left.png) no-repeat;
         width: 35px;
         height: 60px;
         position: absolute;
@@ -1506,7 +1506,7 @@ span {
         left: 5px;
     }
     .arrow-right {
-        background: url(/img/arrow-right.png)no-repeat;
+        background: url(../img/arrow-right.png)no-repeat;
         width: 35px;
         height: 60px;
         position: absolute;
@@ -1661,18 +1661,18 @@ span {
             a {
                 width: 31px;
                 height: 31px;
-                background: url(/img/facebook1.png) no-repeat;
+                background: url(../img/facebook1.png) no-repeat;
             }
             a:nth-child(2) {
-                background: url(/img/twit1.png) no-repeat;
+                background: url(../img/twit1.png) no-repeat;
                 margin: 0;
             }
             a:nth-child(3) {
-                background: url(/img/g+1.png) no-repeat;
+                background: url(../img/g+1.png) no-repeat;
                 margin: 0;
             }
             a:nth-child(4) {
-                background: url(/img/lin1.png) no-repeat;
+                background: url(../img/lin1.png) no-repeat;
             }
         }
     }
@@ -1837,19 +1837,19 @@ span {
     }
     .f-s {
         a {
-            background: url(/img/facebook-f.png) no-repeat;
+            background: url(../img/facebook-f.png) no-repeat;
             width: 60px;
             height: 60px;
             margin: 0 5px;
         }
         a:nth-child(2) {
-            background: url(/img/twit-f.png) no-repeat;
+            background: url(../img/twit-f.png) no-repeat;
         }
         a:nth-child(3) {
-            background: url(/img/g+f.png) no-repeat;
+            background: url(../img/g+f.png) no-repeat;
         }
         a:nth-child(4) {
-            background: url(/img/lin-f.png) no-repeat;
+            background: url(../img/lin-f.png) no-repeat;
         }
     }
 }
@@ -1872,7 +1872,7 @@ span {
     }
     .s-item {
         width: 70%;
-        background: url(/img/slider-text-bg.png) repeat-y;
+        background: url(../img/slider-text-bg.png) repeat-y;
         margin: 50% auto;
     }
     #sr {
@@ -1950,7 +1950,7 @@ span {
     }
     
     .s-item {
-    background: url(/img/slider-text-bg.png) repeat-y;
+    background: url(../img/slider-text-bg.png) repeat-y;
     margin: 40% 15%;
         li{
           text-align: center;
@@ -2048,14 +2048,14 @@ span {
 }
     }
     a:nth-child(4) {
-        background: url(/img/lin.png) no-repeat;
+        background: url(../img/lin.png) no-repeat;
     }
 }
 
 #wk {
     width: 100%;
     height: auto;
-    background: url(/img/work-bg.png) no-repeat;
+    background: url(../img/work-bg.png) no-repeat;
     background-size: cover;
 }
 
@@ -2215,13 +2215,13 @@ span {
             background-size: cover;
             height: 200px;
             display: block;
-            background: url(/img/list1.png) 100% no-repeat;
+            background: url(../img/list1.png) 100% no-repeat;
             border-radius: 5px 5px 0 0;
             z-index: 0;
             position: relative;
         }
         p {
-            background: url(/img/arrow-list.png) no-repeat;
+            background: url(../img/arrow-list.png) no-repeat;
             width: 37px;
             height: 19px;
             z-index: 2;
@@ -2240,43 +2240,43 @@ span {
 
 .wk-list li:nth-child(2) {
     span {
-        background: url(/img/list1.png) 100% no-repeat;
+        background: url(../img/list1.png) 100% no-repeat;
     }
 }
 
 .wk-list li:nth-child(3) {
     span {
-        background: url(/img/list3.png) 100% no-repeat;
+        background: url(../img/list3.png) 100% no-repeat;
     }
 }
 
 .wk-list li:nth-child(4) {
     span {
-        background: url(/img/list4.png) 100% no-repeat;
+        background: url(../img/list4.png) 100% no-repeat;
     }
 }
 
 .wk-list li:nth-child(5) {
     span {
-        background: url(/img/list5.png) 100% no-repeat;
+        background: url(../img/list5.png) 100% no-repeat;
     }
 }
 
 .wk-list li:nth-child(6) {
     span {
-        background: url(/img/list6.png) 100% no-repeat;
+        background: url(../img/list6.png) 100% no-repeat;
     }
 }
 
 .wk-list li:nth-child(7) {
     span {
-        background: url(/img/list7.png) 100% no-repeat;
+        background: url(../img/list7.png) 100% no-repeat;
     }
 }
 
 .wk-list li:nth-child(8) {
     span {
-        background: url(/img/list8.png) 100% no-repeat;
+        background: url(../img/list8.png) 100% no-repeat;
     }
 }
 
@@ -2296,7 +2296,7 @@ span {
         background-size: cover;
         height: 200px;
         display: block;
-        background: url(/img/list-hover.png) 45% no-repeat;
+        background: url(../img/list-hover.png) 45% no-repeat;
         border-radius: 5px 5px 0 0;
         z-index: 2;
         position: relative;
@@ -2333,7 +2333,7 @@ span {
 #cn {
     width: 100%;
     height: auto;
-    background: url(/img/cn-bg.png) no-repeat;
+    background: url(../img/cn-bg.png) no-repeat;
     background-size: cover;
     padding-bottom: 80px;
 }
@@ -2523,18 +2523,18 @@ span {
 
 .f-s {
     a {
-        background: url(/img/facebook-f.png) no-repeat;
+        background: url(../img/facebook-f.png) no-repeat;
         width: 60px;
         height: 60px;
         margin: 0 20px;
     }
     a:nth-child(2) {
-        background: url(/img/twit-f.png) no-repeat;
+        background: url(../img/twit-f.png) no-repeat;
     }
     a:nth-child(3) {
-        background: url(/img/g+f.png) no-repeat;
+        background: url(../img/g+f.png) no-repeat;
     }
     a:nth-child(4) {
-        background: url(/img/lin-f.png) no-repeat;
+        background: url(../img/lin-f.png) no-repeat;
     }
 }
