@@ -1221,7 +1221,8 @@ span {
       .social a:nth-child(3) .wk-area,
       .social a:nth-child(3) .cn-area {
         width: 100%;
-        margin: 0 auto; }
+        margin: 0 auto;
+       background-size:cover;}
       .social a:nth-child(3) .header-area {
         display: block;
         text-align: center; }
